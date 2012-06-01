@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: 'freeUniversal';
+    src: url('freeuniversal-regular-webfont.eot');
+    src: url('freeuniversal-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('freeuniversal-regular-webfont.woff') format('woff'),
+         url('freeuniversal-regular-webfont.ttf') format('truetype'),
+         url('freeuniversal-regular-webfont.svg#FreeUniversalRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#billboard {
+	font-family:freeUniversal, Arial, Sans-serif;
+	text-align:center;
+	clear:both;
+	color: #86B500;
+	font-size:3em;
+	position: relative;
+	top: 150px;
+	
+}
+
+#billboard .supply{
+	
+		
+}
+
+#billboard .save{
+	position: relative;
+	top: -18px;	
+	display: none;
+		
+}
+
+
+

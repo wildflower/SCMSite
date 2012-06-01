@@ -1,0 +1,14 @@
+
+#billboard {
+line-height: 1.5em;
+}
+
+html #billboard h2.save {
+    display: none;
+    position: relative;
+    top: -73px;
+}
+
+html .block .indent-block {
+padding-top :300px;
+}
